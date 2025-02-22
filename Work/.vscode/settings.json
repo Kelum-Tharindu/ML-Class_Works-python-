@@ -4,6 +4,7 @@
         "figsize",
         "fillna",
         "filterwarnings",
+        "imblearn",
         "ipython",
         "kernelspec",
         "linestyle",
